@@ -1,7 +1,5 @@
 # Eduverse.ai
 
-![Eduverse.ai Logo](assets/logo.png)
-
 **Eduverse.ai** is an AI-powered platform designed to generate personalized learning paths based on user preferences, such as age group, language, and learning duration. The application leverages **LLaMA 3 70B** via the **Groq API**, with a **React frontend** and a **FastAPI backend** for seamless learning path generation.
 
 ## 📌 Features
@@ -30,7 +28,6 @@
 
 ## 🔥 Architecture Diagram
 
-![Eduverse.ai Architecture](assets/architecture.png)
 
 1️⃣ **User Query:** Users ask a question like _"I want to learn Python"_.  
 2️⃣ **Backend Processing:** FastAPI processes the query and fetches user data from MongoDB.  
